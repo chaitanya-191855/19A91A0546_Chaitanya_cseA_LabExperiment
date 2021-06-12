@@ -13,5 +13,5 @@ print(ns)
 
 #output
 Enter the string: Iam RVSC from CSE A
-The number of words in string are : 6
+The number of words in string are : 5
 maI CSVR morf ESC A
