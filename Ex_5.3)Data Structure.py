@@ -3,6 +3,7 @@
 in a string and reverse each word in a string at the same location.
 Example: Input :Honesty is the best policy Output :5 ytseno Hsiehttsebycilops= input("Enter the string: ")
 """
+s=input("Enter the string: ")
 res = len(s.split())
 print ("The number of words in string are : " +  str(res))
 w = s.split(" ")
