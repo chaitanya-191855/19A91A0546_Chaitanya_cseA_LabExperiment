@@ -11,6 +11,6 @@ ns = " ".join(nw)
 print(ns)
 
 #output
-Enter the string: Iam Sai Sree from CSE A
+Enter the string: Iam RVSC from CSE A
 The number of words in string are : 6
 maI iaS eerS morf ESC A
